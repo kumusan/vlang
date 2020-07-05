@@ -1,0 +1,4 @@
+# vlang
+
+golangみたいだなって
+
